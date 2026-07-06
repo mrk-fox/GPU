@@ -1,4 +1,4 @@
-# FALLOUT GPU — a discrete-logic graphics processor built in 8 hours
+# FALLOUT GPU- A discrete-logic graphics processor built in 8 hours
 
 **160×128 pixels · 8-bit color (RGB332) · ~3 Mpix/s hardware fill · double-buffered VRAM · built from ~19 jellybean 74HC chips + 62256 SRAM on a 30×40 cm perfboard. Output 1:1 on a 1.8" ST7735 TFT + any browser over WiFi.**
 
